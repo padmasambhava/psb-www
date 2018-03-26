@@ -12,9 +12,10 @@ The detailed aims and objectives defined in
 the constitution are currently under review, 
 prior to charity registration, and will 
 be posted when the approval process has been completed. 
+
 Here are the main aims:-
-To promote, foster and conduct research in to the effects of Yoga.
-To provide yoga classes for the community by teachers trained in 
+- To promote, foster and conduct research in to the effects of Yoga.
+- To provide yoga classes for the community by teachers trained in 
 the "Satyananda Yoga" tradition regardless of age, 
 sex, race or religious beliefs (or lack thereof).
 To present yoga workshops, seminars and retreats.
