@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Padmasambhava is a non-profit organisation and centre located in Llandeilo town, West Wales. We are deeply involved in teaching yoga and networked to yoga centres and schools throughout Europe, Asia and Australia. We teach Satyananda Yoga in accordance with the teachings of the Bihar School of Yoga.
+We are an active group with access to an international team of yoga teachers, therapists and yoga researchers. We also work in the field of yoga research in collaboration with the &amp;ldquo;Bihar Yoga Bharati&amp;rdquo;, the Yoga university in Bihar India.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/eventinfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/eventinfo/</guid>
+      <description>Classes At the Centre The centre teaches by the term thus ensuring that classes are able to progress systematically.
+All classes include a blend of - Asana physical postures, - Pranayama breathing practices, - Yoga Nidra deep relaxation - Meditation.
+Classes are small in numbers ensuring individual attention.
+The Teachers The classes are presented by experienced teachers who have trained with the Bihar School of Yoga and/or Satyananda Yoga centres in the UK and holding accredited BWY teaching diplomas.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/</guid>
+      <description> It&amp;rsquo;s 2018 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/howitruns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/howitruns/</guid>
+      <description>The centre is run by a small group of dedicated individuals. Set up as an unincorporated charitable organisation in 1995.
+From the beginning the underlying philosophy has been one of seva and karma yoga or selfless service. This is the core practice of the members of Padma.
+Aims and Objectives The detailed aims and objectives defined in the constitution are currently under review, prior to charity registration, and will be posted when the approval process has been completed.</description>
+    </item>
+    
+  </channel>
+</rss>
