@@ -1,3 +1,15 @@
+---
+title: "spf13-vim 3.0 release and new website"
+description: "spf13-vim is a cross platform distribution of vim plugins and resources for Vim."
+tags: [ ".vimrc", "plugins", "spf13-vim", "vim" ]
+lastmod: 2015-12-23
+date: "2012-04-06"
+categories:
+  - "Development"
+  - "VIM"
+slug: "spf13-vim-3-0-release-and-new-website"
+---
+
 Padmasambhava is a non-profit organisation and centre located in Llandeilo town, West Wales.
 We are deeply involved in teaching yoga and networked to yoga centres and schools throughout Europe,
 Asia and Australia. We teach Satyananda Yoga in accordance with the teachings of the Bihar School of Yoga.
